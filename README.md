@@ -7,7 +7,7 @@ I. Hướng dẫn cài đặt:
 + SDL2_image.dll
 
 II. Mô tả trò chơi
-- Link youtube mô tả trò chơi:
+- Link youtube mô tả trò chơi: https://www.youtube.com/watch?v=npPpVJ8FRhE
 - Trò chơi tên là PONG, là trò chơi bóng bàn 2D dùng thanh chắn để không cho bóng lọt qua nền trái hoặc phải của màn hình. Nếu để bóng lọt qua, đối phương sẽ ghi được điểm.
 - Người dành được 5 điểm trước sẽ là người chiến thắng
 - Khi đối phương dành được 4 điểm, thanh chắn của người chơi sẽ chuyển sang màu vàng và gia tăng kích thước để dễ dàng che chắn quả bóng hơn, đồng thời màu quả bóng sẽ được chuyển sang màu đỏ. Khi người chơi dành được 4 điểm thì điều tương tự sẽ xảy ra.
