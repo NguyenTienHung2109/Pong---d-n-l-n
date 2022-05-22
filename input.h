@@ -156,6 +156,7 @@ void Pause()
                         Mix_ResumeMusic();
                     pause = true;
                     pointer_pause =1;
+                    demRunning = 0;
                     break;
                 default:
                     break;
